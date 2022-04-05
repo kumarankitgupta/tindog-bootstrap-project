@@ -20,3 +20,19 @@ h1{
     margin-right: 1.5rem;
     margin-bottom: 2.5rem;
 }
+#features{
+    padding: 7% 15%;
+}
+h3{
+    font-family: 'Montserrat', sans-serif bold;
+}
+.fga{
+    text-align: center;
+}
+#icon-img{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+#icon-img:hover{
+    color: #ff4c68;
+}
