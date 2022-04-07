@@ -36,3 +36,28 @@ h3{
 #icon-img:hover{
     color: #ff4c68;
 }
+#testimonials{
+    background-color: #ef8172;
+    padding: 7% 15%;
+    text-align: center;
+    color: #ffff;
+}
+h2{
+    font-family: 'Montserrat Bold';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.test-img{
+    border-radius: 100%;
+    width: 15%;
+    margin-right: 20px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-img{
+    width: 15%;
+    margin: 20px;
+}
