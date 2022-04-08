@@ -38,9 +38,12 @@ h3{
 }
 #testimonials{
     background-color: #ef8172;
-    padding: 7% 15%;
+    
     text-align: center;
     color: #ffff;
+}
+.carousel-item{
+    padding: 7% 15%;
 }
 h2{
     font-family: 'Montserrat Bold';
